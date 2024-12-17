@@ -1,0 +1,21 @@
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\bin\Debug\net7.0-windows\WpfApptest Buttom1.exe
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\bin\Debug\net7.0-windows\WpfApptest Buttom1.deps.json
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\bin\Debug\net7.0-windows\WpfApptest Buttom1.runtimeconfig.json
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\bin\Debug\net7.0-windows\WpfApptest Buttom1.dll
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\bin\Debug\net7.0-windows\WpfApptest Buttom1.pdb
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.csproj.AssemblyReference.cache
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\App.g.cs
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1_MarkupCompile.cache
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1_MarkupCompile.lref
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\MainWindow.baml
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.g.resources
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.AssemblyInfoInputs.cache
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.AssemblyInfo.cs
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.csproj.CoreCompileInputs.cache
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.dll
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\refint\WpfApptest Buttom1.dll
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.pdb
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\WpfApptest Buttom1.genruntimeconfig.cache
+G:\Test1\WpfApptest Buttom1\WpfApptest Buttom1\obj\Debug\net7.0-windows\ref\WpfApptest Buttom1.dll
